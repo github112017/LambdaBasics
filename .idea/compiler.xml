@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="LambdaBasics" target="1.5" />
+      <module name="LambdaBasics" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
